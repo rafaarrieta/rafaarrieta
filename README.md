@@ -1,4 +1,4 @@
-<h1 align="center">Rafa Arrieta</h1>
+<h1 align="center">Rafael Arrieta</h1>
 <p align="center"><b>Estudiante de Ingeniería de Sistemas</b> · Desarrollo Web y Cloud</p>
 
 <p align="center">
