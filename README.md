@@ -17,12 +17,12 @@
 
 Estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software y la tecnología aplicada a los negocios. Me gusta aprender construyendo: aplicaciones web, servicios en la nube y soluciones que resuelvan problemas reales.
 
-- 🎓 Cursando Ingeniería de Sistemas en **TU UNIVERSIDAD**
-- 🔭 Actualmente trabajo en un proyecto **SaaS con React** y en el sitio web corporativo de **IBT (Integra Business and Tech)**
+- 🎓 Cursando Ingeniería de Sistemas en Corporación Universitaria de la Costa
+- 🔭 Actualmente trabajo en un proyecto **SaaS con React** y en el sitio web corporativo de IBT **(Integra Business and Tech)**
 - 🌱 Estoy aprendiendo **AWS, buenas prácticas de desarrollo y arquitectura de software**
 - 🤝 Abierto a colaborar en proyectos web, cloud y open source, y a oportunidades de prácticas
 - 💬 Pregúntame sobre: desarrollo web, React y diseño de interfaces
-- 📫 Contacto: **tu-correo@ejemplo.com**
+- 📫 Contacto: **rafaarrietac@gmail.com**
 - 📍 Barranquilla, Colombia
 
 ---
