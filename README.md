@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Rafa 👋</h1>
 
-<h3 align="center">Estudiante de Ingeniería de Sistemas · Desarrollo Web y Cloud</h3>
+<h3 align="center">Estudiante de Ingeniería de Sistemas.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO">
