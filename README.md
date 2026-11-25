@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Rafa%20Arrieta&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas&descSize=20&descAlignY=62" alt="Banner" width="100%" />
+<h1 align="center">Rafa Arrieta</h1>
+<p align="center"><b>Estudiante de Ingeniería de Sistemas</b> · Desarrollo Web y Cloud</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Rafa+%F0%9F%91%8B;Desarrollo+web+%26+Cloud;Construyendo+SaaS+con+React;Aprendiendo+AWS+y+buenas+pr%C3%A1cticas;Abierto+a+pr%C3%A1cticas+y+colaboraciones" alt="Typing SVG" />
