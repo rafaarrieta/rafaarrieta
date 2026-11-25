@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Rafa 👋</h1>
+<h1 align="center">Hola, soy Rafael Arrieta 👋</h1>
 
 <h3 align="center">Estudiante de Ingeniería de Sistemas.</h3>
 
